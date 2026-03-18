@@ -210,9 +210,3 @@ Confirm HUD Class is set in Game Mode. Confirm Overlay Widget Class is set in `B
 
 **RAM bar seems wrong**
 Default max is 8192 MB. Edit `MaxRAMMB` in `PerfOverlayWidget.cpp` to match your platform.
-
-
-**Upgrade path:**
-- v1.0 → $4.99 (current — Windows + Android)
-- v1.5 → $7.99 (add VRAM, Mac, Linux, iOS)
-- v2.0 → $9.99 (add draw calls, GPU time if UE exposes it cleanly)
